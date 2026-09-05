@@ -1,4 +1,4 @@
-# 👋 Hola, soy Christian Uriel López Aguirre
+# 👋 Hola, soy Cristian Uriel López Aguirre
 
 💻 **Ingeniero en Sistemas** | 🤖 **Inteligencia Artificial** | ⚙️ **Automatización y Desarrollo de Software**
 
